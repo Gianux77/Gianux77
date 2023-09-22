@@ -16,7 +16,7 @@
            backEnd: [ "Python", "Django", "Flask"],
            frontEnd: ["HTML", "CSS", "JavaScript"],
            linux: ["Bash Scripting"],
-           seguridad: ["Análisis de Segurida", "Penetration Testing"]
+           seguridad: ["Análisis de Seguridad", "Penetration Testing"]
          }
   }
 
