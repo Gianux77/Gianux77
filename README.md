@@ -5,17 +5,18 @@
 
 ```
  {
-    cargos: " Desarrolladr Web y Analista de Seguridad "
-    descripcion: " Hola soy Franco, Soy un apasionado desarrollador web y analista de seguridad
-                   con experiencia en diversas tecnologías y frameworks.
-                   Mi objetivo es crear aplicaciones web efectivas y seguras."
+    cargos: "Hacker Ético, Programador y Analista de Seguridad "
+    descripcion: " Hola soy Franco, un apasionado del hacking ético y análisis de seguridad. Mi enfoque principal es asegurar sistemas y 
+                   aplicaciones mediante pruebas de penetración y análisis exhaustivos. Me comprometo a proteger la integridad de los 
+                   datos y la privacidad de los usuarios, garantizando soluciones seguras y efectivas en el ámbito de la seguridad 
+                   informática."
 
-    code: [Python, JavaSripts],
+    code: [Python, JavaSripts, Bash Scripting],
 
     technologies: {
            backEnd: [ "Python", "Django", "Flask"],
            frontEnd: ["HTML", "CSS", "JavaScript"],
-           linux: ["Bash Scripting"],
+           OS: ["Windows","Kali_Linux","Parrot_Os","Debian"],
            seguridad: ["Análisis de Seguridad", "Penetration Testing"]
          }
   }
